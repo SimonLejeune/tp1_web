@@ -1,0 +1,43 @@
+.page{
+  width: 780px;
+  margin: auto;
+  font-size: 16;
+  font-family: sans-serif;
+}
+
+.info {
+  float: left;
+}
+
+.infophoto {
+  height: 250px;
+}
+
+.photo {
+  float: right;
+}
+
+.section {
+  margin-bottom: 70px;
+}
+
+.sec-gauche {
+  float: left;
+}
+
+.sec-droite {
+  margin-left: 150px;
+  margin-top: 37px;
+}
+
+strong {
+  font-size: 26px;
+}
+
+#forma-gauche p{
+  margin-bottom: 37px;
+}
+
+.test {
+  color:green;
+}
