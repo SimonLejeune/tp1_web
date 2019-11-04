@@ -15,22 +15,3 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
-
-.contenu {
-    border-radius : 20px;
-    font-size: 22px;
-    color: rgb(203, 144, 67);
-    text-align: center;
-    margin-top: 20px;
-    margin-left: 20em;
-    margin-right: 20em;
-    margin-bottom: 20px;
-    background-color: #5b3c11;
-}
-
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-    padding: 5px;
-    text-align: center;
-}
