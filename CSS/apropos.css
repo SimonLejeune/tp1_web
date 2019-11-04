@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+
+body{
+    background-image:url(../Assets/apero.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
