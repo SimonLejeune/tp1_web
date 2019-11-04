@@ -1,10 +1,11 @@
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-}
-th, td {
-    padding: 5px;
-    text-align: left;
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+* {
+    margin: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
 }
 
 body{
@@ -12,4 +13,13 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
 }
