@@ -14,7 +14,47 @@
 
 body{
     background-image:url(../Assets/apero.jpg);
-    background-position: center;
+    background-position: 75% 28%;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.contenu {
+
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+/*#index input[type="text"]{
+    font: 400 12px/16px "Roboto", Helvetica, Arial, sans-serif;
+}*/
+
+h1 {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    display: block;
+    font-size: 30px;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    margin: 5px 0 15px;
+    display: block;
+    font-size: 17px;
+}
+
+.p1 {
+    font: 400 12px/16px "Roboto", Helvetica, Arial, sans-serif;
+    display: block;
+    font-size: 30px;
+}
+
+.p2 {
+    display: block;
+    font-size: 30px;
 }
