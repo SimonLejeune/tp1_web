@@ -102,6 +102,11 @@ body{
     animation-duration: 1.5s;
 }
 
+.image {
+    width: 100%;
+    max-height: 600px;
+}
+
 @-webkit-keyframes fade {
     from {opacity: .4}
     to {opacity: 1}
