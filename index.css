@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    -o-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+body{
+    background-image:url(../Assets/apero.jpg);
+    background-position: 75% 30%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contenu {
+    border-radius : 20px;
+    font-size: 22px;
+    color: rgb(203, 144, 67);
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-bottom: 20px;
+    background-color: #5b3c11;
+}
+
+
+h1 {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    display: block;
+    font-size: 30px;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-family: "Roboto", bold, Helvetica, Arial, sans-serif;
+    margin: 5px 0 15px;
+    display: block;
+    font-weight: 300;
+    font-size: 30px;
+}
+
+.p1 {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    display: block;
+    font-size: 30px;
+}
+
+.p2 {
+    display: block;
+    font-size: 30px;
+}
